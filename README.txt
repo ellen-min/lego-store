@@ -1,5 +1,4 @@
 README -
-This is the final project for CS 121 Relational Databases at Caltech.
 The goal of the project was to create a database that replicated a LEGO store.
 The database supports a certain number of command-line queries as well as
 employee and customer logins. Follow the instructions below to try it out
